@@ -1,0 +1,56 @@
+2024-03-15T05:29:02.244883000 0.017160s notice: Recursively removing directory /Users/black-purple/Documents/LP ISIR/RethinkDB/chat-rethink-api/rethinkdb_data/tmp
+2024-03-15T05:29:02.247124000 0.019401s notice: Initializing directory /Users/black-purple/Documents/LP ISIR/RethinkDB/chat-rethink-api/rethinkdb_data
+2024-03-15T05:29:02.247277000 0.019554s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/Users/black-purple/Documents/LP ISIR/RethinkDB/chat-rethink-api/rethinkdb_data' did not already exist or is empty.)
+2024-03-15T05:29:02.247298000 0.019575s notice: Running rethinkdb 2.4.4 (arm64-apple-darwin23.0.0) (CLANG 15.0.0 (clang-1500.0.40.1))...
+2024-03-15T05:29:02.255138000 0.027417s notice: Running on Darwin 23.4.0 arm64
+2024-03-15T05:29:02.255256000 0.027533s notice: Loading data from directory /Users/black-purple/Documents/LP ISIR/RethinkDB/chat-rethink-api/rethinkdb_data
+2024-03-15T05:29:02.310089000 0.082369s info: Automatically using cache size of 100 MB
+2024-03-15T05:29:02.310095000 0.082374s warn: Cache size is very low and may impact performance.
+2024-03-15T05:29:02.310656000 0.082935s notice: Listening for intracluster connections on port 29015
+2024-03-15T05:29:02.311437000 0.083717s notice: Listening for client driver connections on port 28015
+2024-03-15T05:29:02.311466000 0.083746s notice: Listening for administrative HTTP connections on port 8080
+2024-03-15T05:29:02.311469000 0.083749s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2024-03-15T05:29:02.311471000 0.083751s notice: Listening on driver addresses: 127.0.0.1, ::1
+2024-03-15T05:29:02.311474000 0.083754s notice: Listening on http addresses: 127.0.0.1, ::1
+2024-03-15T05:29:02.311477000 0.083757s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2024-03-15T05:29:02.311480000 0.083760s notice: Server ready, "MacBook_local_d57" 8300ee08-4536-4043-a4c8-de7b7ba65679
+2024-03-15T05:29:06.677626000 4.450081s notice: Server got SIGINT from pid 1127, uid 501; shutting down...
+2024-03-15T05:29:06.677876000 4.450330s notice: Shutting down client connections...
+2024-03-15T05:29:06.677953000 4.450407s notice: All client connections closed.
+2024-03-15T05:29:06.677965000 4.450419s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2024-03-15T05:29:06.678658000 4.451112s notice: Storage engine shut down.
+2024-03-15T11:16:52.066006000 0.017869s notice: Running rethinkdb 2.4.4 (arm64-apple-darwin23.0.0) (CLANG 15.0.0 (clang-1500.0.40.1))...
+2024-03-15T11:16:52.079072000 0.030937s notice: Running on Darwin 23.4.0 arm64
+2024-03-15T11:16:52.079139000 0.031002s notice: Loading data from directory /Users/black-purple/Documents/LP ISIR/RethinkDB/chat-rethink-api/rethinkdb_data
+2024-03-15T11:16:52.095086000 0.046949s info: Automatically using cache size of 100 MB
+2024-03-15T11:16:52.095090000 0.046953s warn: Cache size is very low and may impact performance.
+2024-03-15T11:16:52.095645000 0.047509s notice: Listening for intracluster connections on port 29015
+2024-03-15T11:16:52.096401000 0.048265s notice: Listening for client driver connections on port 28015
+2024-03-15T11:16:52.096438000 0.048302s notice: Listening for administrative HTTP connections on port 8080
+2024-03-15T11:16:52.096441000 0.048305s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2024-03-15T11:16:52.096443000 0.048307s notice: Listening on driver addresses: 127.0.0.1, ::1
+2024-03-15T11:16:52.096447000 0.048311s notice: Listening on http addresses: 127.0.0.1, ::1
+2024-03-15T11:16:52.096451000 0.048314s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2024-03-15T11:16:52.096454000 0.048318s notice: Server ready, "MacBook_local_d57" 8300ee08-4536-4043-a4c8-de7b7ba65679
+2024-03-15T11:18:16.073129000 84.028142s notice: Server got SIGINT from pid 1127, uid 501; shutting down...
+2024-03-15T11:18:16.073545000 84.028557s notice: Shutting down client connections...
+2024-03-15T11:18:16.074068000 84.029080s notice: All client connections closed.
+2024-03-15T11:18:16.074071000 84.029083s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2024-03-15T11:18:16.074926000 84.029938s notice: Storage engine shut down.
+2024-03-15T11:21:24.047023000 0.032301s notice: Running rethinkdb 2.4.4 (arm64-apple-darwin23.0.0) (CLANG 15.0.0 (clang-1500.0.40.1))...
+2024-03-15T11:21:24.051774000 0.037052s notice: Running on Darwin 23.4.0 arm64
+2024-03-15T11:21:24.051807000 0.037085s notice: Loading data from directory /Users/black-purple/Documents/LP ISIR/RethinkDB/chat-rethink-api/rethinkdb_data
+2024-03-15T11:21:24.066148000 0.051425s info: Automatically using cache size of 167 MB
+2024-03-15T11:21:24.067143000 0.052421s notice: Listening for intracluster connections on port 29015
+2024-03-15T11:21:24.068106000 0.053384s notice: Listening for client driver connections on port 28015
+2024-03-15T11:21:24.068146000 0.053424s notice: Listening for administrative HTTP connections on port 8080
+2024-03-15T11:21:24.068149000 0.053427s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2024-03-15T11:21:24.068152000 0.053430s notice: Listening on driver addresses: 127.0.0.1, ::1
+2024-03-15T11:21:24.068156000 0.053434s notice: Listening on http addresses: 127.0.0.1, ::1
+2024-03-15T11:21:24.068160000 0.053437s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2024-03-15T11:21:24.068164000 0.053441s notice: Server ready, "MacBook_local_d57" 8300ee08-4536-4043-a4c8-de7b7ba65679
+2024-03-16T00:45:58.405521000 8597.380152s notice: Server got SIGINT from pid 1127, uid 501; shutting down...
+2024-03-16T00:45:58.409468000 8597.384096s notice: Shutting down client connections...
+2024-03-16T00:45:58.411647000 8597.386275s notice: All client connections closed.
+2024-03-16T00:45:58.411654000 8597.386281s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2024-03-16T00:45:58.417242000 8597.391870s notice: Storage engine shut down.
